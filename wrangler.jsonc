@@ -1,0 +1,19 @@
+// Cấu hình đăng web AIF bằng wrangler (chỉ tệp tĩnh, giống các lần kéo thả trên dashboard trước đây).
+// Chạy trong thư mục này:  npx wrangler deploy
+{
+  "name": "aifirstbusiness-website",
+  "compatibility_date": "2026-10-30",
+  "assets": {
+    "directory": "./site",
+    "not_found_handling": "404-page"
+  },
+  "env": {
+    "staging": {
+      "name": "aifirstbusiness-website-staging",
+      "assets": {
+        "directory": "./site",
+        "not_found_handling": "404-page"
+      }
+    }
+  }
+}

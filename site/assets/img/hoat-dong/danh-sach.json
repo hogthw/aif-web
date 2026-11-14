@@ -1,0 +1,160 @@
+{
+ "_ghi_chu": "Ảnh hoạt động ở trang Tác giả (v2.2.0: 21 ảnh từ file Hình ảnh hoạt động Kinh tế – Xã hội – Tôn giáo). Mỗi ảnh có 2 cỡ: tep (rộng tối đa 1920 px) và nho (960 px, cho điện thoại). Ảnh hiện đủ khung, không cắt. Muốn thêm chú thích dưới ảnh: thêm chu_thich (và ngay: YYYY-MM-DD nếu cần). mo_ta là mô tả cho người khiếm thị, không hiện lên ảnh.",
+ "_vi_du": {
+  "tep": "hd-22.webp",
+  "nho": "hd-22-960.webp",
+  "rong": 1920,
+  "cao": 1280,
+  "mo_ta": "Mô tả ảnh",
+  "chu_thich": "(không bắt buộc)"
+ },
+ "anh": [
+  {
+   "tep": "hd-01.webp",
+   "nho": "hd-01-960.webp",
+   "rong": 1264,
+   "cao": 693,
+   "mo_ta": "Tác giả Trần Tấn Sỹ tại hoạt động xúc tiến đầu tư, hợp tác kinh tế"
+  },
+  {
+   "tep": "hd-02.webp",
+   "nho": "hd-02-960.webp",
+   "rong": 1519,
+   "cao": 1140,
+   "mo_ta": "Tác giả Trần Tấn Sỹ tại hoạt động xúc tiến đầu tư, hợp tác kinh tế"
+  },
+  {
+   "tep": "hd-03.webp",
+   "nho": "hd-03-960.webp",
+   "rong": 1529,
+   "cao": 1029,
+   "mo_ta": "Tác giả Trần Tấn Sỹ tại hoạt động xúc tiến đầu tư, hợp tác kinh tế"
+  },
+  {
+   "tep": "hd-04.webp",
+   "nho": "hd-04-960.webp",
+   "rong": 1470,
+   "cao": 1070,
+   "mo_ta": "Tác giả Trần Tấn Sỹ tại hoạt động xúc tiến đầu tư, hợp tác kinh tế"
+  },
+  {
+   "tep": "hd-05.webp",
+   "nho": "hd-05-960.webp",
+   "rong": 1920,
+   "cao": 1280,
+   "mo_ta": "Tác giả Trần Tấn Sỹ tại hoạt động xúc tiến đầu tư, hợp tác kinh tế"
+  },
+  {
+   "tep": "hd-06.webp",
+   "nho": "hd-06-960.webp",
+   "rong": 1920,
+   "cao": 1280,
+   "mo_ta": "Tác giả Trần Tấn Sỹ tại hoạt động xúc tiến đầu tư, hợp tác kinh tế"
+  },
+  {
+   "tep": "hd-07.webp",
+   "nho": "hd-07-960.webp",
+   "rong": 1040,
+   "cao": 898,
+   "mo_ta": "Tác giả Trần Tấn Sỹ tại hoạt động xúc tiến đầu tư, hợp tác kinh tế"
+  },
+  {
+   "tep": "hd-08.webp",
+   "nho": "hd-08-960.webp",
+   "rong": 1726,
+   "cao": 1095,
+   "mo_ta": "Tác giả Trần Tấn Sỹ tại hoạt động xúc tiến đầu tư, hợp tác kinh tế"
+  },
+  {
+   "tep": "hd-09.webp",
+   "nho": "hd-09-960.webp",
+   "rong": 1920,
+   "cao": 1349,
+   "mo_ta": "Hoạt động tôn giáo của tác giả Trần Tấn Sỹ"
+  },
+  {
+   "tep": "hd-10.webp",
+   "nho": "hd-10-960.webp",
+   "rong": 501,
+   "cao": 391,
+   "mo_ta": "Hoạt động tôn giáo của tác giả Trần Tấn Sỹ"
+  },
+  {
+   "tep": "hd-11.webp",
+   "nho": "hd-11-960.webp",
+   "rong": 1540,
+   "cao": 2048,
+   "mo_ta": "Hoạt động tôn giáo của tác giả Trần Tấn Sỹ"
+  },
+  {
+   "tep": "hd-12.webp",
+   "nho": "hd-12-960.webp",
+   "rong": 1920,
+   "cao": 1245,
+   "mo_ta": "Hoạt động tôn giáo của tác giả Trần Tấn Sỹ"
+  },
+  {
+   "tep": "hd-13.webp",
+   "nho": "hd-13-960.webp",
+   "rong": 1920,
+   "cao": 1605,
+   "mo_ta": "Hoạt động tôn giáo của tác giả Trần Tấn Sỹ"
+  },
+  {
+   "tep": "hd-14.webp",
+   "nho": "hd-14-960.webp",
+   "rong": 1920,
+   "cao": 1440,
+   "mo_ta": "Hoạt động tôn giáo của tác giả Trần Tấn Sỹ"
+  },
+  {
+   "tep": "hd-15.webp",
+   "nho": "hd-15-960.webp",
+   "rong": 1920,
+   "cao": 1440,
+   "mo_ta": "Hoạt động tôn giáo của tác giả Trần Tấn Sỹ"
+  },
+  {
+   "tep": "hd-16.webp",
+   "nho": "hd-16-960.webp",
+   "rong": 1920,
+   "cao": 1464,
+   "mo_ta": "Hoạt động xã hội, thiện nguyện của tác giả Trần Tấn Sỹ"
+  },
+  {
+   "tep": "hd-17.webp",
+   "nho": "hd-17-960.webp",
+   "rong": 1920,
+   "cao": 1538,
+   "mo_ta": "Hoạt động xã hội, thiện nguyện của tác giả Trần Tấn Sỹ"
+  },
+  {
+   "tep": "hd-18.webp",
+   "nho": "hd-18-960.webp",
+   "rong": 960,
+   "cao": 720,
+   "mo_ta": "Hoạt động xã hội, thiện nguyện của tác giả Trần Tấn Sỹ"
+  },
+  {
+   "tep": "hd-19.webp",
+   "nho": "hd-19-960.webp",
+   "rong": 960,
+   "cao": 720,
+   "mo_ta": "Hoạt động xã hội, thiện nguyện của tác giả Trần Tấn Sỹ"
+  },
+  {
+   "tep": "hd-20.webp",
+   "nho": "hd-20-960.webp",
+   "rong": 960,
+   "cao": 720,
+   "mo_ta": "Hoạt động xã hội, thiện nguyện của tác giả Trần Tấn Sỹ"
+  },
+  {
+   "tep": "hd-21.webp",
+   "nho": "hd-21-960.webp",
+   "rong": 960,
+   "cao": 720,
+   "mo_ta": "Hoạt động xã hội, thiện nguyện của tác giả Trần Tấn Sỹ"
+  }
+ ]
+}

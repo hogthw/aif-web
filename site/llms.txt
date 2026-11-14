@@ -1,0 +1,17 @@
+# AI First Business
+> Nền tảng tri thức của tác giả Trần Tấn Sỹ về kinh tế AI và chuyển đổi doanh nghiệp tại Việt Nam, thuộc hệ sinh thái IEP — Intelligent Ecosystem Partners.
+
+## Sách
+- [Nền Kinh tế Trí tuệ (AI Economy)](https://aifirstbusiness.vn/sach/nen-kinh-te-tri-tue/): AI tái cấu trúc nền kinh tế, tác động đến các ngành, tăng trưởng và việc làm, cơ hội của Việt Nam đến 2035
+- [AI First Business](https://aifirstbusiness.vn/sach/ai-first-business/): tái thiết doanh nghiệp quanh AI
+- [Bộ sách](https://aifirstbusiness.vn/sach/): hai cuốn đã phát hành; hai cuốn về quản trị phát hành quý 1/2027: Lead Yourself First – Lãnh Đạo Chính Mình, Lãnh Đạo Bồ Đề Tâm – BodhiMind Leadership
+
+## Công cụ đánh giá
+- [ARI](https://aifirstbusiness.vn/danh-gia/ari/): mức sẵn sàng AI của địa phương
+- [ARI-IP™](https://aifirstbusiness.vn/danh-gia/ari-ip/): mức sẵn sàng của khu công nghiệp
+- [EAR Index™](https://aifirstbusiness.vn/danh-gia/ear-index/): mức sẵn sàng AI của doanh nghiệp, 8 trụ cột
+- [Đèn Tín Hiệu](https://aifirstbusiness.vn/danh-gia/den-tin-hieu/): 16 câu, biết ngay quy trình đã sẵn sàng tự động hóa chưa
+
+## Tác giả
+- [Trần Tấn Sỹ](https://aifirstbusiness.vn/tac-gia/tran-tan-sy/)
+- [Hoạt động, hình ảnh hoạt động](https://aifirstbusiness.vn/tac-gia/tran-tan-sy/#hinh-anh-hoat-dong)
